@@ -10,3 +10,12 @@ fields:
     min: 
     max: 
   label: srovnani
+- name: uvod
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: uvod
