@@ -19,3 +19,5 @@ fields:
     schema:
       format: markdown
   label: uvod
+pages:
+- content/Testujeme.md
