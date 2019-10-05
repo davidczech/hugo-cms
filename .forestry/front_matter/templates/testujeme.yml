@@ -1,4 +1,12 @@
 ---
 label: Testujeme
 hide_body: false
-fields: []
+fields:
+- name: srovnani
+  type: blocks
+  template_types:
+  - testujeme
+  config:
+    min: 
+    max: 
+  label: srovnani
